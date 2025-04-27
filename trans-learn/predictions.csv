@@ -1,0 +1,13 @@
+filename,pred_class,confidence,status
+116187765_p0.jpg,AI,0.9641,success
+116187889_p0.png,Non-AI,0.9665,success
+116190082_p0.jpg,AI,0.9864,success
+116190229_p0.jpg,Non-AI,0.9969,success
+116197248_p13.jpg,AI,0.5628,success
+116197248_p17.jpg,Non-AI,0.9917,success
+116197248_p22.jpg,Non-AI,0.9996,success
+116197248_p28.jpg,Non-AI,0.9961,success
+116197248_p49.jpg,Non-AI,0.9989,success
+116197248_p53.jpg,Non-AI,0.9993,success
+116197248_p60.jpg,Non-AI,0.8645,success
+116197248_p62.jpg,AI,0.5327,success
