@@ -2,7 +2,7 @@ import torch
 from torchvision import transforms, datasets
 from torch.utils.data import DataLoader, random_split
 
-def get_data_loaders(data_dir='D:\pythonProject\AIdetection\Crawled', batch_size=16):
+def get_data_loaders(data_dir='D:\pythonProject\AIdetection\GenImage', batch_size=16):#Crawled
     # ImageNet标准归一化参数
     mean = [0.485, 0.456, 0.406]
     std = [0.229, 0.224, 0.225]

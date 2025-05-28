@@ -91,7 +91,7 @@ def main():
         if val_acc >= best_acc:
             best_acc = val_acc
             patience_counter = 0
-            torch.save(model.state_dict(), "best_resnet_model.pth")
+            torch.save(model.state_dict(), "best_resnet_model-9805.pth")
         else:
             patience_counter += 1
             if patience_counter >= config['patience']:
