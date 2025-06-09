@@ -1,0 +1,8 @@
+filename,type,art_prediction,resnet_pred,resnet_conf,light_pred,light_std,reason,caption,final_decision
+12b27cec6ef926467f2b8ef63a21e07.png,art,AI,,,,,,,AI
+130772737_p0_master1200.jpg,art,Non-AI,,,,,,,Non-AI
+38986652_p0_master1200.jpg,art,Non-AI,,,,,,,Non-AI
+48657833_p0.jpg,art,Non-AI,,,,,,,Non-AI
+48889436_p0_master1200.jpg,art,Non-AI,,,,,,,Non-AI
+70624369_p0.png,art,Non-AI,,,,,,,Non-AI
+83612969_p0_master1200.jpg,art,AI,,,,,,,AI
